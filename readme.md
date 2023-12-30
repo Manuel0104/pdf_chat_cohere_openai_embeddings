@@ -2,6 +2,12 @@
 
 This repository contains the code to run your pdf_chatbot app 
 
+#### Video Demo:  <https://www.youtube.com/watch?v=6QDNw_LVInI>
+
+# Description:
+
+This repository contains the code to run pdf_chatbot app 
+
 ## Introduction
 ------------
 The pdf chatbot is a Python application that allows you to chat with multiple PDF documents. You can ask questions about the PDFs using natural language, and the application will provide relevant responses based on the content of the documents. Please note that the app will only respond to questions related to the loaded PDFs.
